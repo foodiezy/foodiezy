@@ -2,7 +2,7 @@
 
 Graduate software engineer based in Nottingham, UK. I like the parts other people
 skip encryption at line rate, authoritative game servers, scheduling constraints.
- CS (2.1)  @ Nottingham Trent, 2026.
+  (2.1) CS @ Nottingham Trent, 2026.
 
 ## Things I've built
 

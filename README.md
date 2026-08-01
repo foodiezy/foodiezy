@@ -1,6 +1,6 @@
 # Hi, I'm Fuad 
 
-Graduate software engineer based in Nottingham, UK. I like the parts other people
+im a graduate software engineer based in Nottingham, UK. I like the parts other people
 skip encryption at line rate, authoritative game servers, scheduling constraints.
   (2.1) CS @ Nottingham Trent, 2026.
 

@@ -4,7 +4,7 @@ Im a graduate software engineer based in Nottingham, UK. I like the parts other 
 skip encryption at line rate, authoritative game servers, scheduling constraints.
   (2.1) CS @ Nottingham Trent, 2026.
 
-## Things I've built
+## Things I've built.
 
 - **[Distributed File System & Load Balancer](https://github.com/foodiezy/Distributed-File-System)** 2,470+ secure uploads/sec, AES-256 at 241 MB/s · Java, Docker, MySQL
 - **[Odogwu Empire](https://github.com/foodiezy/naija-poly)** — multiplayer board game with an authoritative Colyseus server · TypeScript, React
